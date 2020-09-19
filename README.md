@@ -20,9 +20,4 @@ Now the connected client can send and receive messages by using features in the 
 The given program supports upto 10 clients(can be changed by changing just one line of code).
 There are few bugs which can be cleared out easily e.g.removing that client from list which gets disconnected.
 
-Also the 'send file' feature doesnt work perfectly. I shall update that later.....
-
-In case of queries email me.
-
 Email : ashish_musani@ymail.com
-        mr.ashish.musani@ieee.org
